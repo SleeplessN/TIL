@@ -17,7 +17,7 @@
 
     : 사용자에게 응답을 빠르게 해주는 게 중요
 
-![Untitled](Process Sceduling-img/Untitled.png)
+![Untitled](<Process-Sceduling(img)/Untitled.png>)
 
 ### 프로세스 스케줄링을 해야하는 이유?
 
@@ -25,9 +25,9 @@
 
 ⇒ CPU가 쉬지않고 일을 하도록 해주는 역할
 
-![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%201.png)
+![Untitled](<Process-Sceduling(img)/Untitled%201.png>)
 
-![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%202.png)
+![Untitled](<Process-Sceduling(img)/Untitled%202.png>)
 
 프로세스가 도착했을 때 기다리고 있다가 실행이 시작하기 전까지의 시간을 **"대기 시간"**
 
@@ -89,7 +89,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
   - 저수준의 스케줄링
   - 프로세서(cpu)를 할당할 프로세스를 결정한다.
   - 즉 ready 상태에서 cpu를 할당하여 running 상태로 만들어주는 것과 같다.
-  ![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%203.png)
+    ![Untitled](<Process-Sceduling(img)/Untitled%203.png>)
 
 ### **선점(preemptive) VS 비선점(Non-preemptive)**
 
@@ -124,7 +124,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
     - 장점 : Fair
     - 단점 : Convoy Effect 발생 가능(process time이 긴 process뒤에 있으면 waiting time이 길어짐)
 
-    ![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%204.png)
+    ![Untitled](<Process-Sceduling(img)/Untitled%204.png>)
 
 2.  **Shortest Job First Scheduling(**Preemptive & Nonpreemptive)
 
@@ -135,7 +135,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
     - 장점 : 최소의 평균 waiting time을 가지는 최적의 알고리즘
     - 단점 : CPU burst의 크기를 예측할 수 없어 컴퓨터에서는 쓸 수 없음
 
-    ![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%205.png)
+    ![Untitled](<Process-Sceduling(img)/Untitled%205.png>)
 
 3.  **Priority Scheduling(**Preemptive & Nonpreemptive)
 
@@ -145,7 +145,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     ⇒ aging을 통해 시간이 지남에 따라 priority를 높여준다.
 
-    ![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%206.png)
+    ![Untitled](<Process-Sceduling(img)/Untitled%206.png>)
 
 4.  **Round-Robin Scheduling**
 
@@ -155,11 +155,11 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     - 장점 : waiting time, response time 측면에서 좋은 알고리즘
     - 단점 : time quantum이 너무 작으면 context switch overhead 증가
-                : time quantum이 너무 크면 convey effect 발생
+      : time quantum이 너무 크면 convey effect 발생
 
     * A rule of thumb : CPU burst의 80%는 time quantum보다 작아야 함
 
-    ![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%207.png)
+    ![Untitled](<Process-Sceduling(img)/Untitled%207.png>)
 
 5.  **Multilevel Queue Scheduling**
 
@@ -169,7 +169,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     ⇒ queue 간에는 priority scheduling algorithm 알고리즘 사용
 
-    ![Untitled](Process%20Sceduling%2071f80967aa4e44ca8dacbc90cd2ad90a/Untitled%208.png)
+    ![Untitled](<Process-Sceduling(img)/Untitled%208.png>)
 
 6.  **Multilevel feedback queue scheduling**(**MLFQ**)
 
