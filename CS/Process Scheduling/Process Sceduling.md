@@ -15,11 +15,7 @@
 
     : 사용자에게 응답을 빠르게 해주는 게 중요
 
-<img src="Process-Sceduling(img)/Untitled.png" width="400" >
-
-<br>
-<br>
-<br>
+<img src="Process-Sceduling-images/Untitled.png" width="400" >
 
 ## 프로세스 스케줄링을 해야하는 이유?
 
@@ -27,13 +23,9 @@
 
 ⇒ CPU가 쉬지않고 일을 하도록 해주는 역할
 
-<center><img src="Process-Sceduling(img)/Untitled%201.png" width="600" ></center>
+<img src="Process-Sceduling-images/Untitled%201.png" width="600" >
 
-<br>
-<br>
-<br>
-
-<center><img src="Process-Sceduling(img)/Untitled%202.png" width="600" ></center>
+<img src="Process-Sceduling-images/Untitled%202.png" width="600" >
 
 프로세스가 도착했을 때 기다리고 있다가 실행이 시작하기 전까지의 시간을 **"대기 시간"**
 
@@ -42,15 +34,10 @@
 실제로 프로세스가 실행된 시간을 **"실행 시간"**
 
 프로세스 도착 이후 원하는 일이 모두 끝난 시간을 **"반환 시간"**이라고 한다.
-<br>
-<br>
-<br>
 
 ### Process Sceduling
 
 CPU에서 실행될 프로세스를 **선택**하는 역할
-
-<br>
 
 ### Dispatch
 
@@ -59,10 +46,6 @@ CPU에서 실행될 프로세스를 **선택**하는 역할
 이어서 그 선택된 프로세스가 시작할 수 있도록 해주는 역할
 
 Context switching / user mode - kernel mode 전환 / 실행되어야할 프로세스를 적절한 위치로 이동
-
-<br>
-<br>
-<br>
 
 ---
 
@@ -78,19 +61,15 @@ Task 의 PCB 정보는 Process Stack, Ready Queue 라는 자료구조로 관리�
 
 PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
-(1) Process State : 프로세스 상태
+- Process State : 프로세스 상태
 
-(2) Program Counter : 다음에 실행할 명령어 Address
+- Program Counter : 다음에 실행할 명령어 Address
 
-(3) Register : 프로세스 레지스터 정보
+- Register : 프로세스 레지스터 정보
 
-(4) Process number : 프로세스 번호
+- Process number : 프로세스 번호
 
 ---
-
-<br>
-<br>
-<br>
 
 ## 스케줄링의 기준
 
@@ -99,10 +78,6 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 3. Turnaround time : process가 수행되는데 시간이 얼마나 소요되는지[I/O-bound process에서 중요]
 4. Waiting time : ready queue에서 얼마나 기다리는지[I/O-bound process에서 중요]
 5. Response time : 사용자 입장에서 명령어 입력 후 결과를 보기까지 얼마나 걸리는지[I/O-bound process에서 중요]
-
-<br>
-<br>
-<br>
 
 ## 스케줄링의 단계
 
@@ -113,17 +88,12 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 - Mid-term Scheduling
   - 메모리 할당을 결정하는 것
 - Short-term Scheduling
+
   - 저수준의 스케줄링
   - 프로세서(cpu)를 할당할 프로세스를 결정한다.
   - 즉 ready 상태에서 cpu를 할당하여 running 상태로 만들어주는 것과 같다.
 
-<br>
-
-  <img src="Process-Sceduling(img)/Untitled%203.png" width="600" >
-
-<br>
-<br>
-<br>
+  <img src="Process-Sceduling-images/Untitled%203.png" width="600" >
 
 ## **선점(preemptive) VS 비선점(Non-preemptive)**
 
@@ -138,8 +108,6 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
   - 평균 응답 시간 증가, 잦은 우선순위 역전
   - 하나가 끝날 때 까지 진행되기에, 다른 것들은 응답 시간이 길어지게 되고, 갑자기 급한 일이 생기더라도 기존의 작업 때문에 우선순위를 반영할 수 없다.
 
-<br>
-
 ### **Preemptive scheduling**
 
 - 타의에 의해 자원을 빼앗길 수 있다
@@ -151,56 +119,41 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
   - 데이터 일관성 문제가 발생할 수 있다.
     (이것때문에 critical section(임계구역), Mutex 등의 장치들이 필요)
 
-<br>
-<br>
-<br>
-
 ## 스케줄링 알고리즘
 
 1.  **FCFS(NON-PREEMPTIVE)**
 
-        : CPU를 먼저 요청한 Process부터 실행
+    CPU를 먼저 요청한 Process부터 실행
 
-        - 장점 : Fair
-        - 단점 : Convoy Effect 발생 가능(process time이 긴 process뒤에 있으면 waiting time이 길어짐)
+    - 장점 : Fair
+    - 단점 : Convoy Effect 발생 가능(process time이 긴 process뒤에 있으면 waiting time이 길어짐)
 
-    <br>
-
-<center><img src="Process-Sceduling(img)/Untitled%204.png" width="600" ></center>
-
-<br>
-<br>
+    <img src="Process-Sceduling-images/Untitled%204.png" width="600" >
 
 2.  **Shortest Job First Scheduling**(Preemptive & Nonpreemptive)
 
-    : 수행시간(CPU-burst)이 가장 짧은 process부터 수행
+    수행시간(CPU-burst)이 가장 짧은 process부터 수행
 
     - preemptive : 새 process가 들어오면 현재 실행중인 process의 남은 burst time을 가지고 다시 scheduling(SRTF)
     - non-preemptive : 실행중인 process가 끝나기를 기다림
     - 장점 : 최소의 평균 waiting time을 가지는 최적의 알고리즘
     - 단점 : CPU burst의 크기를 예측할 수 없어 컴퓨터에서는 쓸 수 없음
 
-  <center><img src="Process-Sceduling(img)/Untitled%205.png" width="300" ></center>
-
-<br>
-<br>
+    <img src="Process-Sceduling-images/Untitled%205.png" width="300" >
 
 3.  **Priority Scheduling**(Preemptive & Nonpreemptive)
 
-    : 프로세스마다 우선순위를 정해줘서 프로세스를 진행한다.
+    프로세스마다 우선순위를 정해줘서 프로세스를 진행한다.
 
-    - 단점 : 우선순위가 낮은 프로세스는 수행이 안될 수 있다(Starvation)
+    - 단점 : 우선순위가 낮은 프로세스는 수행이 안될 수 있다 (Starvation)
 
-    ⇒ aging을 통해 시간이 지남에 따라 priority를 높여준다.
+      (aging을 통해 시간이 지남에 따라 priority를 높여줌으로서 해결)
 
-  <center><img src="Process-Sceduling(img)/Untitled%206.png" width="400" ></center>
-
-<br>
-<br>
+    <img src="Process-Sceduling-images/Untitled%206.png" width="400" >
 
 4.  **Round-Robin Scheduling**
 
-    : FCFS랑 유사한데 preempt를 가능하게 한 것이다.
+    FCFS랑 유사한데 preempt를 가능하게 한 것이다.
 
     CPU scheduler가 ready queue를 돌면서 한번에 한 process에게 1 time quantum동안 CPU 할당
 
@@ -210,23 +163,17 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     * A rule of thumb : CPU burst의 80%는 time quantum보다 작아야 함
 
-  <center><img src="Process-Sceduling(img)/Untitled%207.png" width="300" ></center>
-
-<br>
-<br>
+    <img src="Process-Sceduling-images/Untitled%207.png" width="300" >
 
 5.  **Multilevel Queue Scheduling**
 
-    : ready queue가 여러 level로 존재함
+    - ready queue가 여러 level로 존재함
 
-    ⇒ 각 queue는 별도의 scheduling algorithm을 가지고 있음
+    - 각 queue는 별도의 scheduling algorithm을 가지고 있음
 
-    ⇒ queue 간에는 priority scheduling algorithm 알고리즘 사용
+    - queue 간에는 priority scheduling algorithm 알고리즘 사용
 
-  <center><img src="Process-Sceduling(img)/Untitled%208.png" width="500" ></center>
-
-<br>
-<br>
+    <img src="Process-Sceduling-images/Untitled%208.png" width="500" >
 
 6.  **Multilevel feedback queue scheduling**(**MLFQ**)
 
@@ -242,15 +189,10 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     - 장점 : 공평하면서도 성능이 우수한 알고리즘
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Ref :
 
-Ref : [https://zoomkoding.github.io/os/2019/04/28/os-5.html](https://zoomkoding.github.io/os/2019/04/28/os-5.html)
+- [https://zoomkoding.github.io/os/2019/04/28/os-5.html](https://zoomkoding.github.io/os/2019/04/28/os-5.html)
 
-[https://ko.wikipedia.org/wiki/스케줄링\_(컴퓨팅)](<https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81_(%EC%BB%B4%ED%93%A8%ED%8C%85)>)
+- [https://ko.wikipedia.org/wiki/스케줄링\_(컴퓨팅)](<https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81_(%EC%BB%B4%ED%93%A8%ED%8C%85)>)
 
-[https://www.studytonight.com/operating-system/process-scheduling](https://www.studytonight.com/operating-system/process-scheduling)
+- [https://www.studytonight.com/operating-system/process-scheduling](https://www.studytonight.com/operating-system/process-scheduling)
