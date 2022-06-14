@@ -11,6 +11,8 @@
     - [Circular Linked List](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Linked%20List/Circular%20Linked%20List/Circular%20Linked%20List.md)
 - ### NonLinear
   - [Priority Queue](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Priority%20Queue/Priority%20Queue.md)
+  - [Hash](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Hash/Hash.md)
+    - [Hash Collision](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Hash/Hash%20Collision/Hash%20Collision.md)
 
 ## Algorithm
 
