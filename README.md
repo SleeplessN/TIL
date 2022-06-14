@@ -19,3 +19,5 @@
 ## CS
 
 - [Process Scheduling](https://github.com/SleeplessN/TIL/blob/main/CS/Process%20Scheduling/Process%20Sceduling.md)
+
+- [OSI 7 Layers](https://github.com/SleeplessN/TIL/blob/main/CS/OSI%207%20Layers/OSI%207%20Layers.md)
