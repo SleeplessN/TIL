@@ -1,8 +1,6 @@
 # Process Sceduling
 
-생성일: 2022년 5월 17일 오후 9:51
-
-### CPU I/O Burst Cycle
+## CPU I/O Burst Cycle
 
 : Process는 CPU burst 와 I/O burst를 반복하면서 수행
 
@@ -17,21 +15,25 @@
 
     : 사용자에게 응답을 빠르게 해주는 게 중요
 
-![Untitled](<Process-Sceduling(img)/Untitled.png>)
+<img src="Process-Sceduling(img)/Untitled.png" width="400" >
 
 <br>
 <br>
 <br>
 
-### 프로세스 스케줄링을 해야하는 이유?
+## 프로세스 스케줄링을 해야하는 이유?
 
 하나의 프로세스가 아닌 다중 프로세스를 운영하게 될 경우, 프로세스들의 **우선 순위**를 조정해주는 일은 매우 중요하다. 중요한 일이라면 우선순위를 높여 자원을 할당해주어 먼저 처리해야하고, 상대적으로 우선순위가 낮은 프로세스는 후순위로 처리하여 효율적/효과적으로 업무를 수행할 필요가 있다. 즉, 프로세스 스케줄링은 **다중 프로그래밍(프로세스가 여러 개) 환경**에서 필요하다.
 
 ⇒ CPU가 쉬지않고 일을 하도록 해주는 역할
 
-![Untitled](<Process-Sceduling(img)/Untitled%201.png>)
+<center><img src="Process-Sceduling(img)/Untitled%201.png" width="600" ></center>
 
-![Untitled](<Process-Sceduling(img)/Untitled%202.png>)
+<br>
+<br>
+<br>
+
+<center><img src="Process-Sceduling(img)/Untitled%202.png" width="600" ></center>
 
 프로세스가 도착했을 때 기다리고 있다가 실행이 시작하기 전까지의 시간을 **"대기 시간"**
 
@@ -57,6 +59,10 @@ CPU에서 실행될 프로세스를 **선택**하는 역할
 이어서 그 선택된 프로세스가 시작할 수 있도록 해주는 역할
 
 Context switching / user mode - kernel mode 전환 / 실행되어야할 프로세스를 적절한 위치로 이동
+
+<br>
+<br>
+<br>
 
 ---
 
@@ -86,7 +92,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 <br>
 <br>
 
-### 스케줄링의 기준
+## 스케줄링의 기준
 
 1. CPU utilization : Overhead는 줄이고 CPU 이용률은 늘렸는지[CPU-bound process에서 중요]
 2. Throughput : 단위시간 당 얼마나 많은 Process를 처리했는지[CPU-bound process에서 중요]
@@ -98,7 +104,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 <br>
 <br>
 
-### 스케줄링의 단계
+## 스케줄링의 단계
 
 발생하는 빈도 및 할당 자원에 따라 그 단계를 구분하게 된다.
 
@@ -110,13 +116,16 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
   - 저수준의 스케줄링
   - 프로세서(cpu)를 할당할 프로세스를 결정한다.
   - 즉 ready 상태에서 cpu를 할당하여 running 상태로 만들어주는 것과 같다.
-    ![Untitled](<Process-Sceduling(img)/Untitled%203.png>)
+
+<br>
+
+  <img src="Process-Sceduling(img)/Untitled%203.png" width="600" >
 
 <br>
 <br>
 <br>
 
-### **선점(preemptive) VS 비선점(Non-preemptive)**
+## **선점(preemptive) VS 비선점(Non-preemptive)**
 
 선점과 비선점의 차이는 누군가 빼앗을 수 있는지 여부에 그 차이가 있다.
 
@@ -146,16 +155,18 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 <br>
 <br>
 
-### 스케줄링 알고리즘
+## 스케줄링 알고리즘
 
 1.  **FCFS(NON-PREEMPTIVE)**
 
-    : CPU를 먼저 요청한 Process부터 실행
+        : CPU를 먼저 요청한 Process부터 실행
 
-    - 장점 : Fair
-    - 단점 : Convoy Effect 발생 가능(process time이 긴 process뒤에 있으면 waiting time이 길어짐)
+        - 장점 : Fair
+        - 단점 : Convoy Effect 발생 가능(process time이 긴 process뒤에 있으면 waiting time이 길어짐)
 
-    ![Untitled](<Process-Sceduling(img)/Untitled%204.png>)
+    <br>
+
+<center><img src="Process-Sceduling(img)/Untitled%204.png" width="600" ></center>
 
 <br>
 <br>
@@ -169,7 +180,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
     - 장점 : 최소의 평균 waiting time을 가지는 최적의 알고리즘
     - 단점 : CPU burst의 크기를 예측할 수 없어 컴퓨터에서는 쓸 수 없음
 
-    ![Untitled](<Process-Sceduling(img)/Untitled%205.png>)\
+  <center><img src="Process-Sceduling(img)/Untitled%205.png" width="300" ></center>
 
 <br>
 <br>
@@ -182,7 +193,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     ⇒ aging을 통해 시간이 지남에 따라 priority를 높여준다.
 
-    ![Untitled](<Process-Sceduling(img)/Untitled%206.png>)
+  <center><img src="Process-Sceduling(img)/Untitled%206.png" width="400" ></center>
 
 <br>
 <br>
@@ -199,7 +210,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     * A rule of thumb : CPU burst의 80%는 time quantum보다 작아야 함
 
-    ![Untitled](<Process-Sceduling(img)/Untitled%207.png>)
+  <center><img src="Process-Sceduling(img)/Untitled%207.png" width="300" ></center>
 
 <br>
 <br>
@@ -212,7 +223,7 @@ PCB는 주로 다음과 같은 정보들을 저장하게 된다.
 
     ⇒ queue 간에는 priority scheduling algorithm 알고리즘 사용
 
-    ![Untitled](<Process-Sceduling(img)/Untitled%208.png>)
+  <center><img src="Process-Sceduling(img)/Untitled%208.png" width="500" ></center>
 
 <br>
 <br>
