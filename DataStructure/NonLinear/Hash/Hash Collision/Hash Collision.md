@@ -21,7 +21,7 @@
 
 ### 1. Chaining(체이닝)
 
-![체이닝](<Hash-Collision(img)/Untitled.png>)
+<img src="Hash-Collision(img)/Untitled.png" width="500" >
 
 체이닝은 저장소(Bucket)에서 충돌이 일어나면 기존 값과 새로운 값을 연결리스트로 연결하는 방법이다.
 
@@ -46,7 +46,7 @@
 
 개방주소법의 해시 테이블은 hash와 value가 1:1관계를 유지한다.
 
-![개방 주소법](<Hash-Collision(img)/Untitled%201.png>)
+<img src="Hash-Collision(img)/Untitled%201.png" width="500" >
 
 위의 그림에서 John과 Sandra의 hash가 동일해 충돌이 일어난다.
 
@@ -69,7 +69,7 @@ a. **선형 탐색**
 
 해시 충돌시 다음 버킷, 혹은 몇 개를 건너뛰어 데이터를 삽입
 
-![선형 탐색](<Hash-Collision(img)/Untitled%202.png>)
+<img src="Hash-Collision(img)/Untitled%202.png" width="500" >
 
 - 장점 : 구조가 간단하고 캐시의 효율이 높음
 - 단점 : 최악의 경우 해시테이블 전체를 검색해야 하는 상황이 발생, 데이터의 클러스터링에 가장 취약
@@ -82,7 +82,7 @@ b. **2차 검색법**
 
 원래 저장할 위치로부터 떨어진 영역을 차례대로 검색하여 첫번째 빈 영역에 키를 저장하는 방법
 
-![2차 검색법](<Hash-Collision(img)/Untitled%203.png>)
+<img src="Hash-Collision(img)/Untitled%203.png" width="500" >
 
 - 선형 검색법에서 발생하는 제1 밀집문제를 제거하는 방법
 - 같은 해시값을 갖는 키에 대해서는 제 2 밀집 발생
@@ -96,7 +96,7 @@ c. **이중 해시**
     
 해시 충돌시 다른 함수를 한번 더 적용한 결과를 이용
 
-![이중 해시](<Hash-Collision(img)/Untitled%204.png>)
+<img src="Hash-Collision(img)/Untitled%204.png" width="500" >
 
 - 캐시 효율은 떨어지지만 클러스터링에 영향을 거의 받지 않음
 - 가장 많은 연산량을 요구
@@ -107,7 +107,7 @@ c. **이중 해시**
 
 **체이닝과 선형 탐색의 비교**
 
-![체이닝vs선형탐색](<Hash-Collision(img)/Untitled%205.png>)
+<img src="Hash-Collision(img)/Untitled%205.png" width="400" >
 
 **체이닝**
 

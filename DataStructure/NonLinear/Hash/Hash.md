@@ -3,9 +3,11 @@
 > **해시함수(hash function)**란 데이터의 효율적 관리를 목적으로 임의의 길이의 데이터를 고정된 길이의 데이터로 매핑하는 함수이다.
 > 이 때 매핑 전 원래 데이터의 값을 **키(key)**, 매핑 후 데이터의 값을 **해시값(hash value)**, 매핑하는 과정 자체를 **해싱(hashing)**이라고 한다
 
-![Untitled](<Hash(img)/Untitled.png>)
+<img src="Hash(img)/Untitled.png" width="500" >
 
-![Untitled](<Hash(img)/Untitled%201.png>)
+<br>
+
+<img src="Hash(img)/Untitled%201.png" width="400" >
 
 - key
   - 고유한 값, hash function의 Input이 된다.
@@ -16,8 +18,7 @@
   - 저장소(버킷,슬롯)에 최종적으로 저장되는 값으로, hash와 매칭되어 저장되어진다.
 
 <br>
-
-![Untitled](<Hash(img)/Untitled%202.png>)
+<img src="Hash(img)/Untitled%202.png" width="400" >
 
 - hash table
   - 해시함수를 사용하여 키를 해시값으로 매핑하고, 이 해시값을 주소또는 색인 삼아 데이터(value)를 key와 함께 저장하는 자료구조이다.
@@ -47,7 +48,7 @@
 
 - **시간복잡도**
 
-해시테이블은 key-value가 1:1로 매핑되어 있기 때문에 삽입, 삭제, 검색의 과정에서 모두 평균적으로 O(1)의 시간복잡도를 가진다
+  해시테이블은 key-value가 1:1로 매핑되어 있기 때문에 삽입, 삭제, 검색의 과정에서 모두 평균적으로 O(1)의 시간복잡도를 가진다
 
 <br>
 <br>
