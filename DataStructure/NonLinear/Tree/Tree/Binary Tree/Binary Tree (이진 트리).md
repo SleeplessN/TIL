@@ -57,9 +57,11 @@
 
 - 예시
   [21, 28, 14, 32, 25, 18, 11, 30, 19, 15]를 이진 트리로 저장하면 다음과 같다.
+
   <img src="Binary-Tree-images/%EC%9D%B4%EC%A7%84_%ED%83%90%EC%83%89_%ED%8A%B8%EB%A6%AC_%EC%A0%80%EC%9E%A5.gif" width ="400">
 
   원하는 값을 탐색하는 과정은 다음과 같다.
+
   <img src="Binary-Tree-images/%EC%9D%B4%EC%A7%84_%ED%83%90%EC%83%89_%ED%8A%B8%EB%A6%AC_%ED%83%90%EC%83%89.gif" width ="400">
 
 - 시간복잡도
