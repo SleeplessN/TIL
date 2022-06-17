@@ -214,7 +214,7 @@
 - **Trie**
   - 사전을 저장하는 데 사용되는 특별한 종류의 트리이다.
 
-[Binary Tree (이진 트리)](https://www.notion.so/Binary-Tree-fd07b3ac05d44fbe9997d0bafe3619b7)
+[Binary Tree (이진 트리)](<https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Tree/Tree/Binary%20Tree/Binary%20Tree%20(%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC).md>)
 
 **Ref :**
 
