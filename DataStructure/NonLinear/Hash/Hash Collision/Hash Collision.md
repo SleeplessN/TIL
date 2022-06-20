@@ -88,14 +88,14 @@ c. **이중 해시**
 - 연결 리스트를 사용하여 복잡한 계산식을 개방주소법에 비해 적게 사용
 - 해시테이블이 채워질수록 성능 저하가 선형적으로 발생
 - **구현해보기** (체이닝)
-  [구현 with JavaScript]()
+  [구현 with JavaScript](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Hash/Hash%20Collision/Hash-Collision-Chaining.js)
 
 **개방주소법**
 
 - 포인터가 필요 없고 지정한 메모리 외 추가적인 저장공간도 필요 없음
 - 삽입, 삭제시 오버헤드가 적고, 저장할 데이터가 적을 때 더 유리
 - **구현해보기** (선형 탐색)
-  [구현 with JavaScript]()
+  [구현 with JavaScript](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Hash/Hash%20Collision/Hash-Collision-Linear-Search.js)
 
 **Ref :**
 
