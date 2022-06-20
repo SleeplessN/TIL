@@ -129,7 +129,9 @@
      - 모든 정점에 대해 간선 정보를 대입해야 하므로 O(n^2)의 시간복잡도가 소요된다.
      - 무조건 2차원 배열이 필요하기 때문에 필요 이상의 공간이 낭비된다.
 
-- **구현해보기 ( 인접 리스트 )**
+- **구현해보기 ( 인접 리스트 사용 )**
+  [구현 with JavaScript (연결그래프)](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Graph/Graph_connected.js)
+  [구현 with JavaScript (비연결 그래프)](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Graph/Graph_disconnected.js)
 
 **Ref :**
 
