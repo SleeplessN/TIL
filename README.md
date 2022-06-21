@@ -26,3 +26,7 @@
 - [OSI 7 Layers](https://github.com/SleeplessN/TIL/blob/main/CS/OSI%207%20Layers/OSI%207%20Layers.md)
 
 - [HTTP](https://github.com/SleeplessN/TIL/blob/main/CS/HTTP/HTTP.md)
+
+## Web
+
+- [CORS](https://github.com/SleeplessN/TIL/blob/main/Web/CORS/CORS.md)
