@@ -10,12 +10,15 @@
     - [Double Linked List](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Linked%20List/Double%20Linked%20List/Double%20Linked%20List.md)
     - [Circular Linked List](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Linked%20List/Circular%20Linked%20List/Circular%20Linked%20List.md)
 - ### NonLinear
+
   - [Priority Queue](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Priority%20Queue/Priority%20Queue.md)
   - [Hash](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Hash/Hash.md)
     - [Hash Collision](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Hash/Hash%20Collision/Hash%20Collision.md)
   - [Tree](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Tree/Tree/Tree.md)
     - [Binary Tree](<https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Tree/Tree/Binary%20Tree/Binary%20Tree%20(%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC).md>)
   - [Graph](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Graph/Graph.md)
+  - [DFS](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/DFS/DFS.md)
+  - [BFS](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/BFS/BFS.md)
 
 ## Algorithm
 
