@@ -53,8 +53,8 @@
 <img src="Heap-images/Untitled%203.png" width="700">
 
 - **구현해보기**
-  - [최소힙 구현 with Javascript]()
-  - [최대힙 구현 with Javascript]()
+  - [최소힙 구현 with Javascript](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Heap/MinHeap.js)
+  - [최대힙 구현 with Javascript](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Heap/MaxHeap.js)
 
 **Ref :**
 
