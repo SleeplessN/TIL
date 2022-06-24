@@ -20,6 +20,7 @@
   - [DFS](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/DFS/DFS.md)
   - [BFS](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/BFS/BFS.md)
   - [Heap](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Heap/Heap.md)
+  - [Trie](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Trie/Trie.md)
 
 ## Algorithm
 
