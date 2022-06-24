@@ -32,6 +32,7 @@
     - 트리를 타고 들어가도 가장 긴 문자열의 길이만큼만 탐색하기 때문에 `O(L)`만큼 걸린다.
 
 - **구현해보기**
+  [구현 with JavaScript](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Trie/Trie.js)
 
 **Ref** :
 
