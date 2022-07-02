@@ -35,3 +35,9 @@
 ## Web
 
 - [CORS](https://github.com/SleeplessN/TIL/blob/main/Web/CORS/CORS.md)
+
+## Javascript
+
+- [Cookie in Javascript](https://github.com/SleeplessN/TIL/blob/main/Javascript/Cookie%20in%20Javascript.md)
+
+- [encoding function](<https://github.com/SleeplessN/TIL/blob/main/Javascript/escape()%20encodeURI()%20encodeURIComponent().md>)
