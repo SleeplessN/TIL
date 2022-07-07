@@ -34,6 +34,8 @@
 
 - [Deadlock Livelock](https://github.com/SleeplessN/TIL/blob/main/CS/Deadlock%20Livelock/Deadlock%20Livelock.md)
 
+- [Mutex Semaphore](https://github.com/SleeplessN/TIL/blob/main/CS/Mutex%20Semaphore/Mutex%20Semaphore.md)
+
 ## Web
 
 - [CORS](https://github.com/SleeplessN/TIL/blob/main/Web/CORS/CORS.md)
