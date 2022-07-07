@@ -32,6 +32,8 @@
 
 - [HTTP](https://github.com/SleeplessN/TIL/blob/main/CS/HTTP/HTTP.md)
 
+- [Deadlock Livelock](https://github.com/SleeplessN/TIL/blob/main/CS/Deadlock%20Livelock/Deadlock%20Livelock.md)
+
 ## Web
 
 - [CORS](https://github.com/SleeplessN/TIL/blob/main/Web/CORS/CORS.md)
