@@ -30,15 +30,17 @@
 
 - [OSI 7 Layers](https://github.com/SleeplessN/TIL/blob/main/CS/OSI%207%20Layers/OSI%207%20Layers.md)
 
-- [HTTP](https://github.com/SleeplessN/TIL/blob/main/CS/HTTP/HTTP.md)
-
 - [Deadlock Livelock](https://github.com/SleeplessN/TIL/blob/main/CS/Deadlock%20Livelock/Deadlock%20Livelock.md)
 
 - [Mutex Semaphore](https://github.com/SleeplessN/TIL/blob/main/CS/Mutex%20Semaphore/Mutex%20Semaphore.md)
 
+- [TCP vs UDP](https://github.com/SleeplessN/TIL/blob/main/CS/TCP-UDP/TCP-UDP.md)
+
 ## Web
 
 - [CORS](https://github.com/SleeplessN/TIL/blob/main/Web/CORS/CORS.md)
+
+- [HTTP](https://github.com/SleeplessN/TIL/blob/main/Web/HTTP/HTTP.md)
 
 ## HTML
 
