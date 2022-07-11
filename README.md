@@ -40,6 +40,10 @@
 
 - [CORS](https://github.com/SleeplessN/TIL/blob/main/Web/CORS/CORS.md)
 
+## HTML
+
+- [HTML](https://github.com/SleeplessN/TIL/blob/main/HTML/HTML/HTML.md)
+
 ## Javascript
 
 - [Cookie in Javascript](https://github.com/SleeplessN/TIL/blob/main/Javascript/Cookie%20in%20Javascript.md)
