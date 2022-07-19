@@ -3,7 +3,8 @@
 ## SVG sprite의 형태
 
 - svg sprite의 경우 다음과 같이 `svg` 태그 안에 여러 개의 `symbol` 태그로 구성되어 있다.
-    <img src="./svg-sprite-images/Untitled.png" width="350">
+
+  <img src="./svg-sprite-images/Untitled.png" width="350">
     
     
     ```html
@@ -68,7 +69,8 @@
 ### 설정
 
 - 같은 root 디렉토리에 `.svg` 파일을 넣어준다.
-  !<img src="./svg-sprite-images/Untitled%202.png" width="150">
+
+  <img src="./svg-sprite-images/Untitled%202.png" width="150">
 
 ### 사용법
 
