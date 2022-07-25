@@ -14,7 +14,7 @@
 
 ## 폴더 생성
 
-```css
+```
 mkdir Practices && $_
 ```
 
@@ -23,7 +23,7 @@ mkdir Practices && $_
 
 ## 파일 생성
 
-```css
+```
 touch src/index.html src/css/index.css
 ```
 
@@ -31,7 +31,7 @@ touch src/index.html src/css/index.css
 
 ## 기본 package.json 파일 생성
 
-```css
+```
 npm init -y
 ```
 
@@ -40,7 +40,7 @@ npm init -y
 
 ## 기본 postcss.config.js 파일 생성
 
-```css
+```
 npx tailwindcss init -p
 ```
 
@@ -49,15 +49,18 @@ npx tailwindcss init -p
 
 ## Postcss 다운 ( 디렉토리 root 위치에 받아야 한다)
 
-```css
+```
 npm i -D postcss postcss-cli cssnano
 ```
 
 - `i` : install
 - `-D` : Dev(개발자)모드로
 - `postcss` , `postcss-cli` , `cssnano` 를 받아보았다.
+
   - 정상적으로 설치가 됐다면 package.json 파일에 다음과 같이 `플러그인이름 : 버전` 형태로 나온다
+
     <img src="./Postcss-images/Untitled.png" width="250">
+
 - 이 작업이 완료되면 root 위치에 `node_modules` 파일이 생성된다
 
 ## 플러그인 설정
@@ -88,6 +91,7 @@ npm i -D postcss postcss-cli cssnano
 ### combine-media-query
 
 - 반응형 `@media` 속성을 합쳐주는 플러그인이다.
+
   <img src="./Postcss-images/Untitled%203.png" width="450">
 
   [https://github.com/SassNinja/postcss-combine-media-query](https://github.com/SassNinja/postcss-combine-media-query)
@@ -109,6 +113,7 @@ npm i -D postcss postcss-cli cssnano
 
 - 오른쪽 위 Feature 항목에 들어가면 stage 별 다양한 기능을 사용할 수 있다.
 - 설치하고 다음과 같이 플러그인 작성해주어야 한다.
+
   <img src="./Postcss-images/Untitled%204.png" width="250">
 
 ## 플러그인을 받았을 때의 파일 내용 예시
