@@ -10,11 +10,12 @@
   - node가 붙으면 node-sass
     [Dart Sass Command-Line Interface](https://sass-lang.com/documentation/cli/dart-sass#one-to-one-mode)
 - Scss → CSS 변환예시
+
   <img src="./Sass-images/Untitled.png" width="500">
 
 ## 폴더 생성
 
-```css
+```
 mkdir src src/css
 ```
 
@@ -22,7 +23,7 @@ mkdir src src/css
 
 ## Sass 설치
 
-```css
+```
 npm i -D sass
 ```
 
@@ -30,7 +31,7 @@ npm i -D sass
 
 ## 설정
 
-<img src="./Sass-images/Untitled%201.png" width="400">
+<img src="./Sass-images/Untitled%201.png" width="500">
 
 - `"sass" : "sass src/scss/index.scss src/css/index.css"`
   - `npm run sass` 명령 시 src/scss/index.scss 파일을 src/css/index.css 파일로 sass 변환한다.
