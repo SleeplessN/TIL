@@ -2,6 +2,10 @@
 
 오늘 내가 배운 것 (Today I Learned) 정리
 
+## zeroConnecTo
+
+- [들어가며](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/start.md)
+
 ## DataStructure
 
 - ### Linear
