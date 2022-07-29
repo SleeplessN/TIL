@@ -7,6 +7,7 @@
 - [들어가며](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/start.md)
 - [2022-07-27](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-27/2022-07-27.md)
 - [2022-07-28](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-28/2022-07-28.md)
+- [2022-07-29](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-29/2022-07-29.md)
 
 ## DataStructure
 
