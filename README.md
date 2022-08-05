@@ -12,6 +12,7 @@
 - [2022-08-02](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-02/2022-08-02.md)
 - [2022-08-03](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-03/2022-08-03.md)
 - [2022-08-04](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-04/2022-08-04.md)
+- [2022-08-05](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-05/2022-08-05.md)
 
 ## DataStructure
 
