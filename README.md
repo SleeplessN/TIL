@@ -2,24 +2,6 @@
 
 오늘 내가 배운 것 (Today I Learned) 정리
 
-## zeroConnecTo
-
-- [들어가며](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/start.md)
-- [2022-07-27](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-27/2022-07-27.md)
-- [2022-07-28](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-28/2022-07-28.md)
-- [2022-07-29](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-29/2022-07-29.md)
-- [2022-08-01](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-01/2022-08-01%20.md)
-- [2022-08-02](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-02/2022-08-02.md)
-- [2022-08-03](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-03/2022-08-03.md)
-- [2022-08-04](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-04/2022-08-04.md)
-- [2022-08-05](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-05/2022-08-05.md)
-- [2022-08-08](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-08/2022-08-08.md)
-- [2022-08-09](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-09/2022-08-09.md)
-- [2022-08-10](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-10/2022-08-10.md)
-- [2022-08-11](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-11/2022-08-11.md)
-- [2022-08-12](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-12/2022-08-12.md)
-- [2022-08-16](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-16/2022-08-16.md)
-
 ## DataStructure
 
 - ### Linear
@@ -77,3 +59,21 @@
 - [Cookie in Javascript](https://github.com/SleeplessN/TIL/blob/main/Javascript/Cookie%20in%20Javascript.md)
 
 - [encoding function](<https://github.com/SleeplessN/TIL/blob/main/Javascript/escape()%20encodeURI()%20encodeURIComponent().md>)
+
+## zeroConnecTo
+
+- [들어가며](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/start.md)
+- [2022-07-27](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-27/2022-07-27.md)
+- [2022-07-28](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-28/2022-07-28.md)
+- [2022-07-29](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-29/2022-07-29.md)
+- [2022-08-01](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-01/2022-08-01%20.md)
+- [2022-08-02](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-02/2022-08-02.md)
+- [2022-08-03](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-03/2022-08-03.md)
+- [2022-08-04](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-04/2022-08-04.md)
+- [2022-08-05](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-05/2022-08-05.md)
+- [2022-08-08](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-08/2022-08-08.md)
+- [2022-08-09](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-09/2022-08-09.md)
+- [2022-08-10](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-10/2022-08-10.md)
+- [2022-08-11](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-11/2022-08-11.md)
+- [2022-08-12](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-12/2022-08-12.md)
+- [2022-08-16](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-16/2022-08-16.md)
