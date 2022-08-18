@@ -68,6 +68,8 @@
 - [17장. 생성자 함수에 의한 객체 생성](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/17%EC%9E%A5%20%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md)
 - [18장. 함수와 일급 객체](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/18%EC%9E%A5%20%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
 - [19장. 프로토타입](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+- [20장. strict mode](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/20%EC%9E%A5%20strict%20mode.md)
+- [21장. 빌트인 객체](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.md)
 
 ## zeroConnecTo
 
