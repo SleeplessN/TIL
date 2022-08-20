@@ -64,6 +64,8 @@
 
 - [9장. 타입 변환과 단축 평가](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/9%EC%9E%A5%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80.md)
 - [10장. 객체 리터럴](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+- [11장. 원시 값과 객체의 비교](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/11%EC%9E%A5%20%EC%9B%90%EC%8B%9C%20%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90.md)
+- [12장. 함수](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/12%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
 - [16장. 프로퍼티 어트리뷰트](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/16%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
 - [17장. 생성자 함수에 의한 객체 생성](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/17%EC%9E%A5%20%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md)
 - [18장. 함수와 일급 객체](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/18%EC%9E%A5%20%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
