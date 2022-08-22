@@ -76,6 +76,8 @@
 - [20장. strict mode](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/20%EC%9E%A5%20strict%20mode.md)
 - [21장. 빌트인 객체](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.md)
 - [22장. this](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/22%EC%9E%A5%20this.md)
+- [23장. 실행 컨텍스트](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+- [24장. 클로저](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 
 ## zeroConnecTo
 
