@@ -9,6 +9,8 @@
     - [Linked List](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Linked%20List/Linked%20List/Linked%20List.md)
     - [Double Linked List](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Linked%20List/Double%20Linked%20List/Double%20Linked%20List.md)
     - [Circular Linked List](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Linked%20List/Circular%20Linked%20List/Circular%20Linked%20List.md)
+  - [Stack](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Stack/Stack%20by%20class.js)
+  - [Queue](https://github.com/SleeplessN/TIL/blob/main/DataStructure/Linear/Queue/Queue%20by%20class.js)
 - ### NonLinear
 
   - [Priority Queue](https://github.com/SleeplessN/TIL/blob/main/DataStructure/NonLinear/Priority%20Queue/Priority%20Queue.md)
