@@ -108,3 +108,4 @@
 - [2022-08-19](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-19/2022-08-19.md)
 - [2022-08-22](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-22/2022-08-22.md)
 - [2022-08-23](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-23/2022-08-23.md)
+- [2022-08-24](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-08-24/2022-08-24.md)
