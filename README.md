@@ -81,6 +81,10 @@
 - [23장. 실행 컨텍스트](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [24장. 클로저](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 - [25장. 클래스](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+- [26장. ES6 함수의 추가 기능](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5.md)
+- [27장. 배열](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4.md)
+- [28장. Number](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/28%EC%9E%A5%20Number.md)
+- [29장. Math](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/29%EC%9E%A5%20Math.md)
 
 ## zeroConnecTo
 
