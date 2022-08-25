@@ -85,6 +85,10 @@
 - [27장. 배열](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4.md)
 - [28장. Number](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/28%EC%9E%A5%20Number.md)
 - [29장. Math](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/29%EC%9E%A5%20Math.md)
+- [30장. Date](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/30%EC%9E%A5%20Date.md)
+- [31장. RegExp](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/31%EC%9E%A5%20RegExp.md)
+- [32장. String](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/32%EC%9E%A5%20String.md)
+- [33장. 7번째 데이터 타입 Symbol](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/33%EC%9E%A5%207%EB%B2%88%EC%A7%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20Symbol.md)
 
 ## zeroConnecTo
 
