@@ -6,7 +6,7 @@
 
 ### HTML 요소와 노드 객체
 
-<img src="./39장 DOM-images/Untitled.png" width="400">
+<img src="./39장 DOM-images/Untitled.png" width="500">
 
 - HTML 문서들은 HTML 요소들의 집합으로 이루어진다.
 - HTML 요소는 중첩 관계를 갖는다. 이로 인해 계측적인 부자관계가 형성된다.
@@ -15,13 +15,13 @@
 
     - 트리 자료구조는 노드들의 계층 구조(부모 노드와 자식 노드)로 이루어 진다.
 
-     <img src="./39장 DOM-images/Untitled%201.png" width="400">
+     <img src="./39장 DOM-images/Untitled%201.png" width="500">
 
 > **노드 객체들로 구성된 트리 자료구조를 DOM(트리)이라 한다.**
 
 ### 노드 객체의 타입
 
-<img src="./39장 DOM-images/Untitled%202.png" width="600">
+<img src="./39장 DOM-images/Untitled%202.png" width="700">
 
 1. **문서 노드 (document node)**
    - **문서 노드는 DOM 트리의 최상위에 있는 루트 노드이며 document 객체를 가리킨다.**
@@ -38,7 +38,7 @@
 
 ### 노드 객체의 상속 구조
 
-<img src="./39장 DOM-images/Untitled%203.png" width="500">
+<img src="./39장 DOM-images/Untitled%203.png" width="700">
 
 | input 요소 노드 객체의 특성                                                | 프로토타입을 제공하는 객체 |
 | -------------------------------------------------------------------------- | -------------------------- |
@@ -103,7 +103,7 @@
 - **Element** 인터페이스는
   - `previousElementSibling`, `nextElementSibling`, `firstElementChild`, `lastElementChild`, `children` 프로퍼티를 제공한다.
 - 트리 노드 탐색 프로퍼티
-  <img src="./39장 DOM-images/Untitled%204.png" width="500">
+  <img src="./39장 DOM-images/Untitled%204.png" width="700">
 
 > 💡 **노드 탐색 프로퍼티는 모두 접근자 프로퍼티다!**
 
@@ -211,9 +211,12 @@
 ### insertAdjacentHTML
 
 - `Element.prototype.insertAdjacentHTML(position, DOMString)`
+
   - 두 번째 인수로 전달한 HTML 마크업 문자열(DOMString)을 파싱하고 그 결과를 첫 번째 인수로 전달한 위치(position)에 삽입한다.
   - 첫 번째 인수
+
     <img src="./39장 DOM-images/Untitled%205.png" width="500">
+
 - 장점
   - 기존 요소에 영향을 주지 않고 새롭게 삽입될 요소만을 추가하므로 효율적이고 빠르다
 - 단점
