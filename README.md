@@ -93,6 +93,8 @@
 - [35장. 스프레드 문법](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/35%EC%9E%A5%20%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%20%EB%AC%B8%EB%B2%95.md)
 - [36장. 디스트럭처링 할당](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/36%EC%9E%A5%20%EB%94%94%EC%8A%A4%ED%8A%B8%EB%9F%AD%EC%B2%98%EB%A7%81%20%ED%95%A0%EB%8B%B9.md)
 - [37장. Set과 Map](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/37%EC%9E%A5%20Set%EA%B3%BC%20Map.md)
+- [38장. 브라우저의 렌더링 과정](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/38%EC%9E%A5%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
+- [39장. DOM](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/39%EC%9E%A5%20DOM.md)
 
 ## zeroConnecTo
 
