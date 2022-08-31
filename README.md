@@ -96,6 +96,10 @@
 - [38장. 브라우저의 렌더링 과정](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/38%EC%9E%A5%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
 - [39장. DOM](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/39%EC%9E%A5%20DOM.md)
 - [40장. 이벤트](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/40%EC%9E%A5%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
+- [41장. 타이머](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/41%EC%9E%A5%20%ED%83%80%EC%9D%B4%EB%A8%B8.md)
+- [42장. 비동기 프로그래밍](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/42%EC%9E%A5%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [43장. Ajax](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/43%EC%9E%A5%20Ajax.md)
+- [44장. REST API](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/44%EC%9E%A5%20REST%20API.md)
 
 ## zeroConnecTo
 
