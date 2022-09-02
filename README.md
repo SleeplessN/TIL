@@ -102,6 +102,8 @@
 - [44장. REST API](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/44%EC%9E%A5%20REST%20API.md)
 - [45장. 프로미스](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/45%EC%9E%A5%20%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4.md)
 - [46장. 제너레이터와 async/await](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/46%EC%9E%A5%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20async%20await.md)
+- [47장. 에러처리](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/47%EC%9E%A5%20%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
+- [48장. 모듈](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/48%EC%9E%A5%20%EB%AA%A8%EB%93%88.md)
 
 ## zeroConnecTo
 
