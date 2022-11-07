@@ -105,7 +105,7 @@
 - [47장. 에러처리](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/47%EC%9E%A5%20%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
 - [48장. 모듈](https://github.com/SleeplessN/TIL/blob/main/Javascript/Javascript%20DeepDive/48%EC%9E%A5%20%EB%AA%A8%EB%93%88.md)
 
-## zeroConnecTo
+## TIL
 
 - [들어가며](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/start.md)
 - [2022-07-27](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-07-27/2022-07-27.md)
@@ -175,3 +175,4 @@
 - [2022-11-02](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-02/2022-11-02.md)
 - [2022-11-03](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-03/2022-11-03.md)
 - [2022-11-04](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-04/2022-11-04.md)
+- [2022-11-07](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-07/2022-11-07.md)
