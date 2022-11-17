@@ -183,3 +183,4 @@
 - [2022-11-14](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-14/2022-11-14.md)
 - [2022-11-15](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-15/2022-11-15.md)
 - [2022-11-16](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-16/2022-11-16.md)
+- [2022-11-17](https://github.com/SleeplessN/TIL/blob/main/zeroConnecTo/2022-11-17/2022-11-17.md)
